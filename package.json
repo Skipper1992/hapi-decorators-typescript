@@ -1,5 +1,5 @@
 {
-  "name": "@skipper/hapi-decorators",
+  "name": "@types/hapi-decorators",
   "version": "1.0.0",
   "description": "hapi decorators",
   "main": "index.js",
